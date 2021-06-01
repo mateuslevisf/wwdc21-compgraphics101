@@ -156,6 +156,7 @@
 		CC3F73602624BF4800179BD0 /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		CC3F73652624C35300179BD0 /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 		CCA659B42666731F00122428 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CCA659B52666749A00122428 /* Graphics.playgroundbook */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Graphics.playgroundbook; sourceTree = "<group>"; };
 		CCA71C05262E779E00D10FE4 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		CCD50470262763C100019E0F /* ShadersScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadersScene.swift; sourceTree = "<group>"; };
 		CCD504782627718B00019E0F /* SHKColorize.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = SHKColorize.fsh; sourceTree = "<group>"; };
@@ -243,6 +244,7 @@
 		5E2A7ADC204F611300F4E17A = {
 			isa = PBXGroup;
 			children = (
+				CCA659B52666749A00122428 /* Graphics.playgroundbook */,
 				5E0E37542065A065008FA4BE /* README_PlaygroundBook.md */,
 				CCA659B42666731F00122428 /* README.md */,
 				5E086DC12051C5A7004D8D25 /* PlaygroundBook */,

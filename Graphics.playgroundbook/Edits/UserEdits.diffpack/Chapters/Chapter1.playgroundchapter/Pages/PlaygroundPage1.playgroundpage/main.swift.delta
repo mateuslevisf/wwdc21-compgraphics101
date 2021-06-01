@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>1</string>
+			<key>ModifiedRange</key>
+			<string>{2373, 1}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{2373, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>5</string>
+			<key>ModifiedRange</key>
+			<string>{3757, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3757, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>1</string>
+			<key>ModifiedRange</key>
+			<string>{3810, 1}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{3809, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>6</string>
+			<key>ModifiedRange</key>
+			<string>{3865, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3864, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/PlaygroundPage1.playgroundpage/main.swift</string>
+</dict>
+</plist>
