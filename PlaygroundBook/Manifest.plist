@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageReference</key>
+	<string>logo.png</string>
+	<key>Version</key>
+	<string>7.0</string>
+	<key>ContentIdentifier</key>
+	<string>$(PLAYGROUND_BOOK_CONTENT_IDENTIFIER)</string>
+	<key>ContentVersion</key>
+	<string>$(PLAYGROUND_BOOK_CONTENT_VERSION)</string>
+	<key>DevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>DeploymentTarget</key>
+	<string>$(PLAYGROUND_BOOK_DEPLOYMENT_TARGET_FOR_MANIFEST)</string>
+	<key>SwiftVersion</key>
+	<string>5.3</string>
+	<key>Name</key>
+	<string>Computer Graphics</string>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+		<string>Chapter2.playgroundchapter</string>
+	</array>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array>
+		<string>BookAPI</string>
+	</array>
+	<key>UserModuleMode</key>
+	<string>Disabled</string>
+	<key>SupportsDarkMode</key>
+	<true/>
+</dict>
+</plist>
