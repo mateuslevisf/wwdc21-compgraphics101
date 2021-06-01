@@ -1,4 +1,4 @@
-#  Computer Graphics: The Playground [Accepted] #
+#  Computer Graphics: WWDC21 Swift Student Challenge Submission [Accepted] #
 
 Welcome to the repository of my WWDC21 Swift Student Challenge submission! This was a playground I made with the intent of teaching the basics of computer graphics in an easy to understand, visual and interactive way. Topics covered were:
 
