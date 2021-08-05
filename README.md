@@ -7,3 +7,7 @@ Welcome to the repository of my WWDC21 Swift Student Challenge submission! This 
 - Shaders
 
 I hope you like this playground, and that it inspires you f you're working towards your own Student Challenge submission!
+
+## Notes
+
+To see the final Playground, use the "Graphics.playgroundbook" file. If you want to see the code behind it, the files inside the "Playgroundbook" chapter or download the repository and open the "Graphics.xcodeproj" file in Xcode.
