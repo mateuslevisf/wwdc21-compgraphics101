@@ -10,4 +10,4 @@ I hope you like this playground, and that it inspires you f you're working towar
 
 ## Notes
 
-To see the final Playground, use the "Graphics.playgroundbook" file. If you want to see the code behind it, the files inside the "Playgroundbook" chapter or download the repository and open the "Graphics.xcodeproj" file in Xcode.
+To see the final Playground, use the "Graphics.playgroundbook" file. If you want to see the code behind it, the files inside the "PlaygroundBook" chapter or download the repository and open the "Graphics.xcodeproj" file in Xcode.
