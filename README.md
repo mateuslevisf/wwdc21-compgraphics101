@@ -6,7 +6,9 @@ Welcome to the repository of my WWDC21 Swift Student Challenge submission! This 
 - Graphic processing by a computer (CPU/GPU differences)
 - Shaders
 
-I hope you like this playground, and that it inspires you f you're working towards your own Student Challenge submission!
+I hope you like this playground and that it inspires you if you're working towards your own Student Challenge submission!
+
+If you have any questions or need help with something, just send me an email at mateuslevisimoes@gmail.com!
 
 ## Notes
 
